@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React on Udemy!
+          Learn React on Udemy in 2020!
         </a>
       </header>
     </div>
